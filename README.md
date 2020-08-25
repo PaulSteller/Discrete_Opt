@@ -3,3 +3,4 @@ Assignments and techniques worked on for the Coursera Discrete Optimization cour
 The problems I have uploaded so far:
 1) Sudoku Solver
 2) Knapsack Problem
+3) Traveling Salesman Problem
