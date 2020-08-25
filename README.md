@@ -4,3 +4,4 @@ The problems I have uploaded so far:
 1) Sudoku Solver
 2) Knapsack Problem
 3) Traveling Salesman Problem
+4) Graph Coloring Problem
